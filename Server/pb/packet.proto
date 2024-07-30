@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+option go_package ="../pb";
+
+package pb;
+
+message Gesture{
+  float roll = 1;
+  float pitch = 2;
+  float yaw = 3;
+  float min_ear = 4;
+  float mar = 5;
+  float mdst = 6;
+  float LFronterArm = 7;
+  float LUpperArm = 8;
+  float RFronterArm = 9;
+  float RUpperArm = 10;
+}
+
+message Simpgest{
+  bool present = 1;
+  bool handsup = 2;
+}
+
+enum Id1 {
+  LOGIN = 0;  //登陆管理
+  KEEPALIVE = 1;  //状态更新
+  UPDATE = 2;  //更新课程状态
+  FILE = 3;    //文件下载
+  FILEUPLOAD = 4; //文件上传
+  LESSONS = 5;  //课程清单
+  DEBUG = 9;  //待使用
+}
+
+message Packet{
+  Id1 id1 = 1;
+  uint32 id2 = 2;
+  string SorTid = 3;
+  Gesture gesture = 4;
+  Simpgest simpgest = 5;
+  bytes filedata = 6;
+  string mesg = 7;
+}
+

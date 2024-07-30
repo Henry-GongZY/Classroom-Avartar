@@ -1,0 +1,8 @@
+{
+  "Version": "tcp4",
+  "Host": "127.0.0.1",
+  "TcpPort": 5665,
+  "MaxConn": 10,
+  "MaxPackageSize": 4096,
+  "WorkerPoolSize": 8
+}
