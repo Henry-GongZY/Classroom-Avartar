@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\live2dmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\live2dmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\live2dmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\live2dmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\mainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\lessonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lessonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\henrygongzy\\desktop\\graduation_design-master\\teacherclient\\assets\\scripts\\getback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54AC1E9-011D-7931-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\getback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Live2dModel.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Live2dModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Live2dModel.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Live2dModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Live2dModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Student.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Student.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Student.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Packet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Packet.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Packet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Packet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Net.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Net.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Net.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Net.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Net.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:30.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mainUI.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\mainUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mainUI.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\mainUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mainUI.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:24.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Live2dManager.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Live2dManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Live2dManager.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Live2dManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Live2dManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:21.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lessonUI.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\lessonUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\lessonUI.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\lessonUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\lessonUI.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:16.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Initializer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Initializer.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Initializer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Initializer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:13.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Getback.cs",
+              "DocumentMoniker": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Getback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Getback.cs",
+              "ToolTip": "C:\\Users\\HenryGongZY\\Desktop\\Graduation_design-master\\teacherclient\\Assets\\Scripts\\Getback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Getback.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:10:08.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
